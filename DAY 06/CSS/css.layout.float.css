@@ -1,0 +1,32 @@
+.body {
+    margin: 4rem;
+}
+
+.box { 
+    /*float: left;
+    margin-right: 1rem;*/
+    width: 200px;
+    height: 200px;
+    font:700 1.45rem; Verdana;
+    color: white; 
+}
+
+
+.is-central {
+    text-align: center;
+    line-height: 200px;
+}
+
+.primary {
+    background: red;
+}
+.secondary {
+    /*float: left;*/
+    background: pink;
+}
+.tertiary {
+    background: palegoldenrod;
+}
+.quaternay {
+    background: grey;
+}
